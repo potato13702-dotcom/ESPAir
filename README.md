@@ -4,7 +4,7 @@ Turn an ESP32 running MicroPython into an offline, zero-latency Wi-Fi access poi
 ## Setup Steps
 
 1. **Flash MicroPython:** Install the latest MicroPython firmware onto your ESP32 board using Thonny IDE or `esptool`.
-2. **Upload Code:** Save `main.py` directly to the ESP32 root directory.
+2. **Upload Code:** Copy the code from `main.py` and paste it into your ESP32's main.py folder running Micropython.
 3. **Power On ESP32:** Plug the ESP32 into a USB power bank or power source.
 
 ---
