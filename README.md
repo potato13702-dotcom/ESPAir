@@ -8,7 +8,7 @@
 
 ## About the Project
 
-This project uses MicroPython to transform an ESP32 into a standalone, zero-latency Wi-Fi access point (AP). It creates a dedicated local bridge for Minecraft multiplayer sessions without requiring a home router, cellular data, or an active internet connection.
+This project uses MicroPython to transform an ESP32 into a standalone, zero-latency Wi-Fi access point (AP). It creates its own wifi for Minecraft multiplayer sessions without requiring a home router, cellular data, or an active internet connection.
 
 ---
 
