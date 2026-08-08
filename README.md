@@ -2,17 +2,7 @@
 
 > **Built by a 13-year-old 8th-grade student maker!** 🚀  
 > This project turns an inexpensive ESP32 microcontroller into a dedicated, offline local access point tailored specifically for lag-free Minecraft LAN gaming.
----
 
-## Pics and screenshots
-
-![ESP32 Hardware Setup](IMG_20260804_124851_hdr~2.jpg)
-
-![Minecraft LAN Screenshot 1](Screenshot_20260804-124431.png)
-
-![Minecraft LAN Screenshot 2](Screenshot_20260804_124651_125715.jpg)
-
-![Minecraft LAN Screenshot 3](Screenshot_20260804-124643.png)
 
 ---
 
