@@ -1,7 +1,7 @@
-# ESP32 MicroPython Minecraft LAN Router
+# ESPAir
 
 > **Built by a 13-year-old 8th-grade student maker!** 🚀  
-> This project turns an inexpensive ESP32 microcontroller into a dedicated, offline local access point tailored specifically for lag-free Minecraft LAN gaming.
+> This project turns an ESP32 microcontroller into a offline local access point for lag-free Minecraft LAN multiplayer gameplay without the need of an internet connection.
 
 
 ---
